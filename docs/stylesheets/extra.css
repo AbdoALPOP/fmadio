@@ -1,0 +1,14 @@
+[data-md-color-scheme="washMaster"] {
+    --md-primary-fg-color:        #202027;
+    --md-typeset-a-color:         #7cb91c;
+    /* --md-primary-fg-color--light: #ce0f69; */
+    /* --md-primary-fg-color--dark:  #90030C; */
+
+  } 
+  [data-md-color-scheme="slate"] {
+    --md-primary-fg-color:        #202027;
+    --md-typeset-a-color:         #7cb91c;
+    /* --md-hue: 200; */
+  }
+
+
